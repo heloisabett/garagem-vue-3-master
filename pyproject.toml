@@ -1,0 +1,13 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "heloisaramos", email = "heloramos@hmail.com"},
+]
+dependencies = [
+    "django-cors-headers>=4.1.0",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
